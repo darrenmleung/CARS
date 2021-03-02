@@ -1,4 +1,4 @@
-# Passage 1
+# Passage 2
 In the first place, to make the poem or the novel the central concern of literary criticism has appeared to mean cutting it loose from its author and from the author’s particular hopes, fears, interests, conflicts, etc. A criticism so limited may seem bloodless and hollow.
 
 In the second place, to emphasize the work seems to involve severing it from those who actually read it, and this severance may seem drastic and therefore disastrous. After all, literature is written to be read.
