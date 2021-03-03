@@ -67,7 +67,7 @@ C. Brooks, The formalist critic. ©1951 by *The Kenyon Review.*
 ### 14. Which of the following statements, if true, would most directly *challenge* the principles of formalist criticism?
 <ol type="A">
   <li>The capacity to interpret a work of literature varies from reader to reader.</li>
-  <li>The capacity to interpret a work of literature varies from reader to reader.</li>
+  <li>Good literature is more than just effective rhetoric.</li>
   <li>Knowledge of the author’s intentions is not usually reliable.</li>
   <li>The social and historical contexts of a work of literature cannot be ignored.</li>
 </ol>
