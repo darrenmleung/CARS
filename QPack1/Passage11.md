@@ -1,4 +1,4 @@
-# Passage 10
+# Passage 11
 In a fundamental sense, every person is morally responsible for deciding what is right and what is wrong and acting accordingly. This responsibility is often an uncomfortable burden, and you may wish to be rid of it, to pass it on to someone else.
 
 But responsibility for your actions is not transferable. To say “I hereby promise to obey Fred, no matter what he commands, right or wrong” is an immoral attempt to forfeit your autonomy. After all, to say that you had, in fact, made someone else responsible for your actions would mean that you had, somehow, enslaved your will to someone else’s will, had made yourself figuratively a puppet. Fortunately, it is not possible. Having made a promise to obey, one is still in fact free to obey or disobey, to keep or break that promise.
