@@ -99,7 +99,7 @@ R. K. Massie, *Dreadnought: Britain, Germany, and the Coming of the Great War*. 
   <b>Solution</b>: The correct answer is <b>C</b>.
 
   <ol type="A">
-    <li><u>Option II</u> is correct, but so is <i>option I</i>.</li>
+    <li><i>Option II</i> is correct, but so is <i>option I</i>.</li>
     <li>The elimination of naval customs that were not strictly necessary (<i>option III</i>) would undermine “the need to keep the men busy” without improving the navy’s ability to perform more essential duties. Similarly, the elimination of military ceremony would not, in itself, enhance preparedness. Furthermore, ceremonial occasions, as when “gold-encrusted admirals came ashore to call on local dignitaries”, would “manifest the majesty and power of England”, which the new lord of the admiralty would be pledged to uphold.</li>
     <li>The navy’s preparedness for military engagements would be furthered by the establishment of regular gunnery practice that used targets and emphasized firing accuracy (<i>option I</i>), as opposed to activities that only disposed of ammunition. Since an obsessive concern with polished surfaces could compromise the function of warships–e.g., gleaming armored doors that “were no longer watertight” – preparedness would also be fostered by a greater emphasis on practicality than on appearance (<i>option II</i>).</li>
     <li>See <i>rationale B</i>.</li>
