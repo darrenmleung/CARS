@@ -47,6 +47,14 @@ From Luciano Berti. *Florence: The City and Its Art*. © 1979 by Luciano Berti
   <li>unnaturally elongated figures in stylized poses.</li>
 </ol>
 
+### 90. That some Florentines refer to Ammannati’s statue of Neptune as “Il Biancone” would most directly tend to challenge the assumption that:
+<ol type="A">
+  <li>Florentines were well versed in mythology.</li>
+  <li>the statue is greatly admired in Florence.</li>
+  <li>Ammannati’s work was sometimes clumsy.</li>
+  <li>Cosimo I respected Ammannati’s work.</li>
+</ol>
+
 # Answers
 <details>
   <summary>Question 86</summary>
@@ -93,5 +101,17 @@ From Luciano Berti. *Florence: The City and Its Art*. © 1979 by Luciano Berti
     <li>The reference to sweet and terrible elements (final paragraph) is independent of the implied description of mannerism that precedes it in paragraph 2.</li>
     <li>Libidinous imagery would describe sensual satyrs, which are naturalistic rather than mannerist.</li>
     <li>“Some of these . . . with their stylized elongated bodies, are mannerist in style” makes it clear that these are characteristics of mannerism.</li>
+  </ol>
+</details>
+
+<details>
+  <summary>Question 90</summary>
+  <b>Solution</b>: The correct answer is <b>B</b>.
+
+  <ol type="A">
+    <li>According to paragraph 2, ‘Il Biancone’ means ‘the big white one’—which does not indicate any particular knowledge of mythology.</li>
+    <li>The Florentines “<i>wickedly</i> call [Ammannati’s figure of the god’ ‘Il Biancone’ . . . ”, which suggests they do <i>not</i> greatly admire it.</li>
+    <li>If anything, calling his work ‘the big white one’ supports, rather than challenges, the assumption that it was sometimes clumsy.</li>
+    <li>It is not Cosimo I who calls Ammannati’s statue ‘Il Biancone’ but “the Florentines”.</li>
   </ol>
 </details>
