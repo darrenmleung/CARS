@@ -58,124 +58,125 @@ Adapted from D. Worster, *Dust Bowl: The Southern Plains in the 1930s*. ©1979 b
 <details>
   <summary>Question 1</summary>
   <b>The solution is D</b>: trace a long sequence of contributory factors.
-  
-  <b>Item Rationale:</b>
+  <br><br>
+  <b>Item Rationale:</b><br>
   This is a Reasoning Within the Text question because the answer to this question cannot be found in a specific phrase or sentence, but rather depends more globally on the overall passage. It is asking about how the author structured this passage and approached the topic.
-  
+  <br><br>
   <b>Option Rationale:</b>
+  <br>
   Option A: personalize history by showing the role of individuals.
-
+<br>
   Incorrect. Although there are a couple of individuals mentioned (Jefferson, Pike and Wilbur), their individual stories are not the main focus of the passage, so this is not the best answer. 
-
+<br><br>
   Option B: state broad conclusions unsupported by specific facts.
-
+<br>
   Incorrect. The author offers some claims in topic sentences (pace of settlement was not affected; sod-house era did not last long; industrial age provided new machinery; new machinery encouraged commercial relation) but provides supporting details for each of them, so this is not the best answer.
-
+<br><br>
   Option C: concentrate on explaining the triggering episode.
-
+<br>
   Incorrect. Even if there were a single triggering episode, the author does not concentrate primarily on just one factor, so this is not the best answer.
-
+<br><br>
   Option D: trace a long sequence of contributory factors.
-
+<br>
   Correct. The author lists a number of contributory factors over time including actions of leaders, settlers, unfortunate weather, new technologies and changes in farming practices. 
 </details>
 
 <details>
   <summary>Question 2</summary>
   <b>The solution is B</b>: make cuts on the soil surface in order to promote the absorption of water.
-  
-  <b>Item Rationale:</b>
+  <br><br>
+  <b>Item Rationale:</b><br>
   This is a Foundations of Comprehension question. Although this question prompt says “implies,” the author explicitly discussed this practice in paragraph 5. The answer to this question is probably going to be in one of the sentences in this paragraph and is asking us to locate specific language. When we return to paragraph 5, we can find a very close match: “the disk plow did not penetrate far into the ground but moved quickly, chopping up the topsoil to produce rough clods that increased water absorption.” “Chopping up topsoil” can be seen as synonymous with “making cuts on the soil surface.”
-  
-  <b>Option Rationale:</b>
+  <br><br>
+  <b>Option Rationale:</b><br>
   Option A: divert rain into irrigation channels in order to prevent erosion of the topsoil.
-
+<br>
   Incorrect. There is no mention of anything like irrigation channels as stated in this option.
-
+<br><br>
   Option B: make cuts on the soil surface in order to promote the absorption of water.
-
+<br>
   Correct. While a short plow is used, the purpose is not to retain moisture deep in the soil, but to increase water absorption in the topsoil, which is consistent with this option.
-
+<br><br>
   Option C: develop a deep powdery soil in order to facilitate the sprouting of grain.
-
+<br>
   Incorrect. Dry farming does result in a finely pulverized layer, but the layer is shallow since the “disk plow did not penetrate far into the ground” and not “deep” negating this option.
-
+<br><br>
   Option D: use a short plow blade in order to retain the moisture deep in the soil.
-
+<br>
   Incorrect. While a short plow is used, the purpose is not to retain moisture deep in the soil, but to increase water absorption in the topsoil, which is inconsistent with this option.
 </details>
 
 <details>
   <summary>Question 3</summary>
   <b>The solution is D</b>: unusual drought conditions.
-  
-  <b>Item Rationale:</b>
+  <br><br>
+  <b>Item Rationale:</b><br>
   This is a Reasoning Within the Text question. This question is asking about the author’s stance on who was at fault for the Dust Bowl, but the author does not come out and explicitly state their position of which factor was least important. It is assessing skills in making an inference about the author and their position.
-  
-  <b>Option Rationale:</b>
+  <br><br>
+  <b>Option Rationale:</b><br>
   Option A: inappropriate farming machinery.
-
+<br>
   Incorrect. The author points out the role of the surge of settlers and the use of the disk plow, which attributes the Dust Bowl to the actions of people and not to nature. This is also suggested by the negative tone that is used to describe human actions when we read the passage. Thus, the author would be more likely to blame the three options that directly relate to human actions such as the inappropriate use of machinery.
-
+<br><br>
   Option B: overgrazing of the grasslands.
-
+<br>
   Incorrect. The author points out the role of the surge of settlers and the use of the disk plow, which attributes the Dust Bowl to the actions of people and not to nature. This is also suggested by the negative tone that is used to describe human actions when we read the passage. Thus, the author would be more likely to blame the three options that directly relate to human actions such as the overgrazing.
-
+<br><br>
   Option C: unwise government policies.
-
+<br>
   Incorrect. Instead, the author points out the role of the surge of settlers and the use of the disk plow, which attributes the Dust Bowl to the actions of people and not to nature. This is also suggested by the negative tone that is used to describe human actions when we read the passage. Thus, the author would be more likely to blame the three options that directly relate to human actions such as the government policies.
-
+<br><br>
   Option D: unusual drought conditions.
-
+<br>
   Correct. Although the author does mention the drought conditions in two places as “…a six-year drought…” (paragraph 4) and “…severe drought” (final paragraph), they do not emphasize these as unusual or as a cause. Instead, the author points out the role of the surge of settlers and the use of the disk plow, which attributes the Dust Bowl to the actions of people and not to nature. This is also suggested by the negative tone that is used to describe human actions when we read the passage. Thus, the author would be more likely to blame the three options that directly relate to human actions (inappropriate use of machinery, overgrazing, and government policies). Another way to see this answer as correct is to notice that the drought conditions are mentioned in passing, but there are paragraphs devoted to the effects of the machinery, overgrazing, and government policies.
 </details>
 
 <details>
   <summary>Question 4</summary>
   <b>The solution is D</b>: accelerated the outcome of problems that were already well advanced.
-  
-  <b>Item Rationale:</b>
+  <br><br>
+  <b>Item Rationale:</b><br>
   This is a Reasoning Beyond the Text question because the question prompt is introducing new information from 1913 to 1919 that goes beyond what was stated in the passage. It asks us to integrate this new information into the author’s argument.
-  
-  <b>Option Rationale:</b>
+  <br><br>
+  <b>Option Rationale:</b><br>
   Option A: delayed the onset of the Dust Bowl by causing the replanting of neglected land.
-
+<br>
   Incorrect. This option implies the opposite saying the Dust Bowl would have been delayed (a positive outcome). There is also no information suggesting that land in the southern plains was being neglected during this time, so there is no support for this option.
-
+<br><br>
   Option B: taught U.S. grain producers the benefits of ecologically sound cultivation.
-
+<br>
   Incorrect. There is no discussion of U.S. grain producers learning ecologically sound practices at any time, so there is no support for this option.
-
+<br><br>
   Option C: were insufficient to enable the U.S. grain market to regain its stability.
-
+<br>
   Incorrect. The market instability did not begin until the glut in 1930, so this option is inconsistent with the timing suggested in the passage.
-
+<br><br>
   Option D: accelerated the outcome of problems that were already well advanced.
-
+<br>
   Correct. What would happen if we were to add increases in demand for wheat and planting between 1913 and 1919 to the argument that the author has already laid out? The passage does not cover in detail the time between the Enlarged Homestead Act (1909) (paragraph 4) and the 300% increase in wheat production that occurred from 1925-1930 (final paragraph), but we know that increased planting during that period had negative consequences, as described in the last 3 sentences. So, we would predict that there would also be negative consequences from increased planting during this earlier time period. This best matches this option—that increased planting would have accelerated the outcome of problems.
 </details>
 
 <details>
   <summary>Question 5</summary>
   <b>The solution is A</b>: The dry-farming method encouraged a strictly commercial view of the land.
-  
-  <b>Item Rationale:</b>
+  <br><br>
+  <b>Item Rationale:</b><br>
   This is a Reasoning Beyond the Text question. This question prompt introduces new information about some wheat growers who became wealthy. This goes beyond what was stated in the passage, and it asks us to integrate this new information into the author’s argument.
-  
-  <b>Option Rationale:</b>
+  <br><br>
+  <b>Option Rationale:</b><br>
   Option A: The dry-farming method encouraged a strictly commercial view of the land.
-
+<br>
 Correct. The question is asking us to identify which of the author’s claims is consistent with the new information. This option is a claim advanced by the author and is closely related to their main point. There is a clear link that can be drawn between dry farming encouraging a “strictly commercial” (final paragraph) view of the land and the idea that those who could afford to buy up and exploit a great deal of land became wealthy. This new information is consistent with the author’s idea. To the extent that it was the commercial mindset that caused the grab for land, and its exploitation, then this can be linked to why some farmers experienced wealth.
-
+<br><br>
 Option B: Successful wheat farming requires the cultivation of extensive acreage.
-
+<br>
 Incorrect. This option is attractive because of the new information suggesting that farmers with larger plots were successful, but when we read the passage closely, the author does not argue that larger plots of land were required for success in cultivating wheat. The author only mentions that settlers agitated for larger plots because they wanted to exploit the land with dry farming (paragraph 4), not because the larger plots were necessary for success.
-
+<br><br>
 Option C: Large-scale cultivation will eventually have disastrous consequences.
-
+<br>
 Incorrect. The author does not make a claim that increases in scale per se would eventually lead to disastrous consequences. It is not the size of the land holdings that matter, but whether the farming practices exploit the land or have the goal of sustaining it.
-
+<br><br>
 Option D: Small agricultural holdings would better serve freedom and equality.
-
+<br>
 Incorrect. The author does not actually suggest this claim. They just mention that some people “…identified freedom and democracy with cheap land” (paragraph 2) and that farmers were “…determined to make a more democratic use…” of the land (paragraph 3), but the author does not make the argument in favor of small land holdings.
 </details>
