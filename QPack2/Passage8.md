@@ -111,13 +111,13 @@ R. Brogan, Generalized school readiness. ©1962 by Psychological Foundations of 
 
 <details>
   <summary>Question 48</summary>
-  <b>Solution</b>: The correct answer is <b>B</b>.
+  <b>Solution</b>: The correct answer is <b>A</b>.
 
   <ol type="A">
-    <li>The logic of this analogy, in how the completed sentence is structured and reads, makes breaking farmland with a hand plow analogous to school readiness and mechanized agriculture analogous to developmentally appropriate instruction when the opposite would be a more apt analogy. However, even if the opposite analogy were used, breaking land with a hand plow, while a more personal way of farming that is closer to the land, is not so exact an analogy to developmentally appropriate instruction as seeing it like a personal note to a friend—the land cannot experience this interpersonal relationship like a friend can. See <i>rationale B</i>.</li>
-    <li>This analogy is most apropos because the author contends that, much like a form letter, school readiness is too impersonal and standardized whereas developmentally appropriate instruction, much like a personal note to a friend, is focused on the individual needs of children and is designed to be personally meaningful to them.</li>
-    <li>The logic of this analogy, in how the completed sentence is structured and reads, equates school readiness with using a fishing line, a more personalized way of fishing, and developmentally appropriate instruction to casting a net, which is more generalized and impersonal way of fishing. The opposite analogy would be more to the point, but, even so, making developmentally appropriate instruction analogous to fishing with a rod is not so exact an analogy as equating it with sending a personal note to a friend. Like this form of education, a personal note is an interpersonal interaction that treats the recipient of the note as an individual. See <i>rationale B</i>.</li>
-    <li>Equating preparation of a variety of dishes in a restaurant with school readiness and equating cooking a family meal at home with developmentally appropriate education is an apt analogy—the former suggests a more impersonal mode of interaction and the latter is more personal. However, the latter, while more personal, does not necessarily imply an individualized approach, because a family home meal is directed at a more intimate <i>group</i>, not an <i>individual</i>. Therefore, this is not so exact an analogy as comparing the former to a form letter and the latter to a personal note to a friend. See <i>rationale B</i>.
+    <li>The author discusses the importance of developing a test to validate curricular reforms and educational effectiveness.</li>
+    <li>The author does not bring up the honesty of grading as an issue.</li>
+    <li>The author would not use the scores in this way, because it does not follow that, if the tests were already noted for their validity and reliability, why then such a process need to be undertaken. The author would ask the evaluators to come up with their own test if they found existing ones inadequate.</li>
+    <li>The author would not use the scores in this way, since probable income is not directly related to educational goals, which is the authors main concern in the passage.
 </li>
   </ol>
 </details>
