@@ -59,6 +59,14 @@ The triumph of commercial agriculture not only rendered obsolete the objective c
   <li>happy and industrious.</li>
 </ol>
 
+### 26. Which of the following assertions, if true, would most *weaken* the main point of the passage?
+<ol type="A">
+  <li>The contribution made by American farmers to victory in the Revolutionary War has been greatly exaggerated.</li>
+  <li>The agrarian myth was what might be called “a noble lie”: it was false but generally beneficial.</li>
+  <li>The agrarian myth played a part in the thinking of only a handful of Americans during the eighteenth and nineteenth centuries.</li>
+  <li>American farmers during the eighteenth and nineteenth centuries had very little in common with the idealized yeoman farmer of the agrarian myth.</li>
+</ol>
+
 # Answers
 <details>
   <summary>Question 21</summary>
