@@ -276,3 +276,31 @@ Option D: find intrinsic satisfaction in discerning the truth about others.
 Correct. This is supported by the claim that we do have a desire for knowledge that leads us to "go beneath the surface of what is said and shown and to try to unravel conflicting clues and seemingly false leads" (first paragraph), along with the claim that "If we knew about people only what they wished to reveal…we would be deprived of <i>the pleasure</i>…that comes from trying to understand them" (paragraph 2). The first quotation supports the assumption that the desire is intrinsic, and the second supports the suggestion that it is satisfying.
 
 </details>
+
+<details>
+  <summary>Question 66</summary>
+  <b>The solution is D</b>: a means of acquiring insights about their own relationships.
+
+  <br><br>
+  <b>Item Rationale:</b><br>
+  This is a Reasoning Beyond the Text question because it asks you to apply passage arguments to predict the effects of a hypothetical scenario, which is not discussed in the passage.
+  
+  <br><br>
+  <b>Option Rationale:</b><br>
+  Option A: social advantages that are gained through privileged knowledge.
+<br>
+Incorrect. The author does not talk about gossip conferring “privileged knowledge.”
+<br><br>
+Option B: chances to criticize those whose conduct is shameful.
+<br>
+Incorrect. There is no support in the passage for this option.
+<br><br>
+Option C: the intimacy that results from the sharing of secrets.
+<br>
+Incorrect. On the contrary, the passage suggests that gossip tends to produce only “spurious intimacy” (final paragraph), so if people agreed never to gossip, they might <i>gain</i> intimacy.
+<br><br>
+Option D: a means of acquiring insights about their own relationships.
+<br>
+Correct. In the first paragraph, the author suggests some of the potential benefits of gossip for understanding other people, and thus, relationships: “Yet to define [gossip] in these [purely negative] ways is to overlook the whole network of human exchanges of information, the need to inquire and to learn from the experience of others and the importance of not taking everything at face value.” Presumably, then, if people agreed never to gossip, even in situations in which the gossip was not harmful to others, nor met the author’s criteria for “reprehensible” instances of gossip, at least some potential for learning about relationships would be sacrificed.
+
+</details>
