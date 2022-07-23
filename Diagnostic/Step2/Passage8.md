@@ -114,6 +114,34 @@ Incorrect. This is not addressed in the passage; furthermore, purchases of consu
 </details>
 
 <details>
+  <summary>Question 45</summary>
+  <b>The solution is C</b>: declined and then rose steeply.
+
+  <br><br>
+  <b>Item Rationale:</b><br>
+  This is a Comprehension question, which asks you to essentially restate a claim made by the author in the passage.
+  
+  <br><br>
+  <b>Option Rationale:</b><br>
+  Option A: rose steadily.
+<br>
+Incorrect. Paragraph 2 tells us explicitly that the “economic advantage of a college degree” did not rise steadily; it declined, and then rose.
+<br><br>
+Option B: rose slightly and then steeply.
+<br>
+Incorrect. According to paragraph 2, the “economic advantage of a college degree” first declined, and then rose; it did not rise slightly then steeply.
+<br><br>
+Option C: declined and then rose steeply.
+<br>
+Correct. "In the sixties and early seventies, the economic advantage of a college degree actually diminished….But then the advantage of the college educated grew rapidly until, by 1986, the gap in earnings had widened to 49 percent [from the earlier 15 percent]" (paragraph 2, emphasis added). Thus, the author tells us, the economic advantage of a degree declined then rose steeply.
+<br><br>
+Option D: declined in real terms.
+<br>
+Incorrect. Paragraph 2 makes clear that the economic benefits of a degree did not simply decline: it declined then rose. The passage does not address the issue of the “real terms” of the economic decline or rise.
+
+</details>
+
+<details>
   <summary>Question 46</summary>
   <b>The solution is A</b>: The elimination of gender discrimination would magnify income inequality among assortatively mated heterosexual couples.
 
