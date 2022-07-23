@@ -56,6 +56,14 @@ Adapted from P. N. Limerick, The Legacy of Conquest. ©1987 by P. N. Limerick.
   <li>democratic ideals on ignorant resistance.</li>
 </ol>
 
+### 110. Which of the following predictions about the Western U.S. would be a probable outcome of a trend identified by the author?
+<ol type="A">
+  <li>Continuing migration into the region will cause a redistribution of property.</li>
+  <li>Full settlement of the continental U.S. will remove the reason for territorial competition.</li>
+  <li>Subdivisions will fragment the land holdings indicated by lines on nineteenth-century maps.</li>
+  <li>The common concerns of Westerners will cause their ethnicity to lose its relevance.</li>
+</ol>
+
 # Answers
 <details>
   <summary>Question 105</summary>
@@ -194,5 +202,33 @@ Incorrect. The reorganization, as the author presents the concept, does not refe
 Option D: democratic ideals on ignorant resistance.
 <br>
 Incorrect. There is no discussion of the “triumph” of democracy over “resistance,” in the passage, and the author certainly does not characterize resistance in this fashion.
+
+</details>
+
+<details>
+  <summary>Question 110</summary>
+  <b>The solution is A</b>: Continuing migration into the region will cause a redistribution of property.
+
+  <br><br>
+  <b>Item Rationale:</b><br>
+  This is a Reasoning Beyond the Text question because it asks you to use passage content to make a prediction about a scenario that is outside the context of the passage.
+  
+  <br><br>
+  <b>Option Rationale:</b><br>
+  Option A: Continuing migration into the region will cause a redistribution of property.
+<br>
+Correct. This option is supported by much of paragraph 6: “Western history has been an ongoing competition for legitimacy, for the right to proclaim oneself and sometimes one’s group the legitimate beneficiary of Western resources. The pervasive association of ethnic diversity with property allocation unifies Western history.”
+<br><br>
+Option B: Full settlement of the continental U.S. will remove the reason for territorial competition.
+<br>
+  Incorrect. The author’s claim that: "Reconceived as an <i>ongoing struggle</i>, the fragmented and discontinuous past becomes a comprehensible whole" (final paragraph) suggests that even with full settlement, struggle for property will continue.
+<br><br>
+Option C: Subdivisions will fragment the land holdings indicated by lines on nineteenth-century maps.
+<br>
+Incorrect. The author does not suggest that the lines drawn on nineteenth century maps have remained static and unchanging since they were drawn, as this option would have it: “Conquest basically involved the definition and allocation of ownership (personal, tribal, corporate, state, federal, and international) and the transformation of land from scenery into property. The process had two stages: the initial drawing of lines on a map (usually called the frontier stage) and the giving of meaning and power to those boundaries, <i>a process that is still under way</i>” (paragraph 5, emphasis added).
+<br><br>
+Option D: The common concerns of Westerners will cause their ethnicity to lose its relevance.
+<br>
+Incorrect. The final paragraph of the passage explicitly challenges this: "cultural dominance remains a major issue."
 
 </details>
