@@ -73,4 +73,8 @@ Step 2:
 - [Passage 20](/Diagnostic/Step2/Passage20)
 - [Passage 21](/Diagnostic/Step2/Passage21)
 - [Passage 22](/Diagnostic/Step2/Passage22)
-
+- [Passage 23](/Diagnostic/Step2/Passage23)
+- [Passage 24](/Diagnostic/Step2/Passage24)
+- [Passage 25](/Diagnostic/Step2/Passage25)
+- [Passage 26](/Diagnostic/Step2/Passage26)
+- [Passage 27](/Diagnostic/Step2/Passage27)
