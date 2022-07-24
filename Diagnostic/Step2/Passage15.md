@@ -14,44 +14,44 @@ The role of the federal government itself has changed dramatically as the U.S. h
 The belief that particular presidents have achieved remarkable results in policy leadership fits neatly with a national need to see the presidency as an exceptional role. But it clashes with the real world of national politics. Strong presidential leadership is the exception rather than the rule, and conflict between the two branches is as American as apple pie.
 
 # Questions
-### 82. aksdjaskjdakjdads
+### 82. According to the passage, the main reason for the misperception that U.S. presidents function as prime ministers is that:
 <ol type="A">
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
+  <li>policy changes are associated with the president in office at the time.</li>
+  <li>congresses dominated by the president’s party will support presidential policies.</li>
+  <li>the public depends on the president to control the excesses of Congress.</li>
+  <li>the U.S. legislative system is based on a parliamentary model.</li>
 </ol>
 
-### 83. aksdjaskjdakjdads
+### 83. The 1972 Watergate investigation implicated top White House aides in a campaign of political spying conducted on behalf of the Nixon presidential reelection effort. How could the author most reasonably have related this scandal to the passage argument?
 <ol type="A">
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
+  <li>As a response to the distorted public image of the presidency</li>
+  <li>As an example of the inability of presidents to control events</li>
+  <li>As evidence of the contrast between a president and a prime minister</li>
+  <li>As a reason for an increase in congressional mistrust of the president</li>
 </ol>
 
-### 84. aksdjaskjdakjdads
+### 84. If the author is correct about the operation of a parliamentary government, which of the following expectations is the most reasonable?
 <ol type="A">
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
+  <li>Legislators will try to advance their careers by opposing the prime minister.</li>
+  <li>Cabinet ministers will vote in the same way as the prime minister.</li>
+  <li>Parliamentary leaders will <i>offer</i> to <i>resign</i> if their proposals are outvoted.</li>
+  <li>Parliaments will be dissolved if a prime minister is involved in a scandal.</li>
 </ol>
 
-### 85. aksdjaskjdakjdads
+### 85. According to the passage argument, a college professor would be conducting classes in a more presidential than ministerial way by:
 <ol type="A">
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
+  <li>impressing students with an authoritative manner.</li>
+  <li>having a clear syllabus that is closely followed.</li>
+  <li>delegating classroom authority to teaching assistants.</li>
+  <li>attempting to guide students during open discussions.</li>
 </ol>
 
-### 86. aksdjaskjdakjdads
+### 86. Which of the following possible trends, if verified, would most clearly constitute evidence for passage assertions about changes in the U.S. government?
 <ol type="A">
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
-  <li>raskdjaskdjsad</li>
+  <li>Corruption among White House officials is increasingly widespread.</li>
+  <li>World leaders are increasingly opposed to U.S. foreign policy decisions.</li>
+  <li>The media are giving proposed legislation increasingly critical attention.</li>
+  <li>Voting in Congress is increasingly independent of party agendas.</li>
 </ol>
 
 # Answers
