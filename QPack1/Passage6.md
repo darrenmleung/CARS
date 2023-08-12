@@ -5,9 +5,9 @@ One has to labor long and hard to learn *li*. The word in its root meaning is cl
 
 Confucius characteristically and sharply contrasts the ruler who uses *li* with the ruler who seeks to attain ends by means of commands, threats, regulations, punishments and force. The force of coercion is manifest and tangible, whereas the vast (and sacred) forces at work in *li* are invisible and intangible. *Li* works through spontaneous coordination rooted in reverent dignity. The perfection in Holy Rite is esthetic as well as spiritual.
 
-The effortless power of *li* can also be used to accomplish physical ends, though we usually do not think of it this way. Let us suppose I wish to bring a book from my office to my classroom. If I have no magic powers, I must li</i>terally take steps – walk to my office, et cetera. But there is also magic – the proper ritual expression of my wish which will accomplish my wish with no such effort on my part. I turn politely, i.e., ceremonially, to one of my students in class and merely express in an appropriate and polite (ritual) formula my wish. In almost no time the book is in my hands, as I wished!
+The effortless power of *li* can also be used to accomplish physical ends, though we usually do not think of it this way. Let us suppose I wish to bring a book from my office to my classroom. If I have no magic powers, I must literally take steps – walk to my office, et cetera. But there is also magic – the proper ritual expression of my wish which will accomplish my wish with no such effort on my part. I turn politely, i.e., ceremonially, to one of my students in class and merely express in an appropriate and polite (ritual) formula my wish. In almost no time the book is in my hands, as I wished!
 
-The notion that we can use speech only to talk *about* action or indirectly to *evoke* action has dominated modern Western thought. Yet contemporary “linguistic” analysis in philosophy has revealed increasingly how much the ritual word is itself the critical act rather than a report of, or stimulus to, action. The philosopher J. L. Austin brought the reality and pervasiveness of this phenomenon to a focus in his analyses of what he called the “performative utterance.” These are the innumerable statements we make which function somewhat li</i>ke the “operative” clause in a legal instrument. They are the very execution of the act itself.
+The notion that we can use speech only to talk *about* action or indirectly to *evoke* action has dominated modern Western thought. Yet contemporary “linguistic” analysis in philosophy has revealed increasingly how much the ritual word is itself the critical act rather than a report of, or stimulus to, action. The philosopher J. L. Austin brought the reality and pervasiveness of this phenomenon to a focus in his analyses of what he called the “performative utterance.” These are the innumerable statements we make which function somewhat like the “operative” clause in a legal instrument. They are the very execution of the act itself.
 
 “I give and bequeath my watch to my brother,” duly said or written is not a report of what I have already done but is the very act of bequeathal itself. It is by words, and by the ceremony of which the words form a part, that I bind myself in a way which, for someone “ever turning to *li*,” is more powerful, more inescapable than strategies or force.
 
@@ -26,7 +26,7 @@ H. Fingarette, Confucius–*The Secular as Sacred*.  ©1972 by H. Fingarette.
   <li>the powers that are uniquely human are revealed in traditional ceremonies.</li>
 </ol>
 
-### 37. The passage suggests that Confucius would be most li</i>kely to endorse which of the following reasons to use *li*?
+### 37. The passage suggests that Confucius would be most likely to endorse which of the following reasons to use *li*?
 <ol type="A">
   <li>It acknowledges the dignity of others.</li>
   <li>It works invisibly through magical powers.</li>
@@ -34,7 +34,7 @@ H. Fingarette, Confucius–*The Secular as Sacred*.  ©1972 by H. Fingarette.
   <li>It avoids the risks involved in using force.</li>
 </ol>
 
-### 38. The powers discussed by Confucius are described as “magical.” What is the most li</i>kely reason for the choice of this word?
+### 38. The powers discussed by Confucius are described as “magical.” What is the most likely reason for the choice of this word?
 <ol type="A">
   <li>The word directs attention to the power behind ordinary social conventions.</li>
   <li>The rituals involved in <i>li</i> harness supernatural phenomena.</li>
